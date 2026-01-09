@@ -4,7 +4,7 @@
 Employee attrition is a critical challenge for organizations, leading to significant knowledge loss and increased hiring costs. This project leverages **Microsoft Power BI** for visual storytelling and **Machine Learning** to identify key drivers of employee turnover.
 
 ## 📸 Dashboard Preview
-<img width="1490" height="863" alt="HR ANALYTICS DASHBOARD IMAGE" src="https://github.com/user-attachments/assets/b4ae1ee3-6eb2-45a4-b88d-832ae7d80a28" />
+![Dashboard Preview](dashboard_preview.jpg)
 
 The dashboard provides an interactive view of workforce dynamics, helping HR departments move from reactive hiring to **proactive retention strategies**.
 
@@ -18,6 +18,17 @@ The dashboard provides an interactive view of workforce dynamics, helping HR dep
 * **Attrition by Demographics**: Breakdown of turnover by Age, Gender, and Education level.
 * **Departmental Analysis**: Deep dive into specific departments (e.g., Sales, R&D) to pinpoint high-risk teams.
 * **Key Risk Factors**: Visual correlation between attrition and factors like **Overtime**, **Salary Slabs**, and **Years Since Last Promotion**.
+
+## 📉 Model Performance & Evidence
+To ensure the reliability of the attrition predictions, a Machine Learning model was trained and evaluated.
+
+## 1. Confusion Matrix
+Displays the model's accuracy in correctly classifying employees as "At Risk" vs. "Safe".
+![Confusion Matrix](confusion_matrix.jpg)
+
+## 2. Feature Importance
+Highlights the top factors contributing to employee churn (e.g., Overtime, Monthly Income).
+![Feature Importance](feature_importance.jpg)
 
 ## 🧠 Key Insights from Analysis
 * **Overtime Impact**: Employees working frequent overtime showed a significantly higher likelihood of leaving.
