@@ -4,7 +4,7 @@
 Employee attrition is a critical challenge for organizations, leading to significant knowledge loss and increased hiring costs. This project leverages **Microsoft Power BI** for visual storytelling and **Machine Learning** to identify key drivers of employee turnover.
 
 ## 📸 Dashboard Preview
-[HR ANALYTICS DASHBOARD IMAGE.pdf](https://github.com/user-attachments/files/24534993/HR.ANALYTICS.DASHBOARD.IMAGE.pdf)
+<img width="1490" height="863" alt="HR ANALYTICS DASHBOARD IMAGE" src="https://github.com/user-attachments/assets/b4ae1ee3-6eb2-45a4-b88d-832ae7d80a28" />
 
 The dashboard provides an interactive view of workforce dynamics, helping HR departments move from reactive hiring to **proactive retention strategies**.
 
