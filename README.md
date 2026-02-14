@@ -47,4 +47,4 @@ Highlights the top factors contributing to employee churn (e.g., Overtime, Month
 ## 📷 Live Demo Video
 https://drive.google.com/file/d/1j_TfglfjrpZ3QbB6Wiamr6UaDehW9LSl/view?usp=drivesdk
 ---
-*Developed by Md Salman Farsi for Unified Mentors Internship.*
+*Developed by Md Salman Farsi for Unified Mentor Internship.*
